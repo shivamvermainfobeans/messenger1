@@ -43,6 +43,7 @@ public class Comment {
 	}
 	public void setAuthor(String author) {
 		this.author = author;
+		System.out.println("Hello World");
 	}
 	
 	
